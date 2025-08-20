@@ -51,7 +51,7 @@ cd Bookly
 flutter pub get
 flutter run
 Download APK (Pending Amazon approval):
-👉 Download Bookly APK from Google Drive
+👉 Download Bookly APK from Google Drive: https://drive.google.com/file/d/1dAe2gH98RGZ38Em0jMGJV67vPL8RVt6r/view?usp=drive_link 
 
 🌐 API Reference
 Powered by: Google Books API
@@ -65,11 +65,11 @@ Feel free to fork this repository and submit a PR.
 👨‍💻 Author
 Ziad Gamal
 
-Portfolio
+Portfolio : https://ziadgamal.vercel.app/
 
-Email
+Email: ziadgemy123@gmail.com
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/ziad-gamal-54b052375/
 
 📝 Amazon Appstore Submission (Notes)
 App Title: Bookly – Free Books & Reading App
